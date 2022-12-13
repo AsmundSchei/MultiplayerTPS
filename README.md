@@ -1,7 +1,7 @@
 # MultiplayerTPS
  Multiplayer thirdperson shooter for UE5
 
-Featuring creating/joining session for 4 players with lobby system. Everything is replicated. File size: 3GB.
+Featuring creating/joining session for 4 players with lobby system. Everything is replicated. Assets is from Lyra, level design is my own. File size: 3GB.
 
 ![Capture](https://user-images.githubusercontent.com/2607194/207461080-b9dab001-67b0-49a9-8422-12b107bc329a.JPG)
 
