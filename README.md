@@ -3,7 +3,7 @@
 
 Featuring creating/joining session for 4 players with lobby system. Everything is replicated with clean blueprints code and commented. Assets is from Lyra, level design is my own. Version: 5.0.3. File size: 3GB.
 
-![Capture](https://user-images.githubusercontent.com/2607194/207461080-b9dab001-67b0-49a9-8422-12b107bc329a.JPG)
+![Capture](https://user-images.githubusercontent.com/2607194/207629008-05a23116-44d4-4c01-8134-d31f20675bd1.JPG)
 
 ![Capture2](https://user-images.githubusercontent.com/2607194/207461090-9e434687-51ca-495e-9056-9f31542c0769.JPG)
 
