@@ -1,7 +1,7 @@
 # MultiplayerTPS
  Multiplayer thirdperson shooter for UE5
 
-Featuring creating/joining session for 4 players with lobby system. Everything is replicated with clean blueprints code and commented. Assets is from Lyra, level design is my own. Code credit goes to GameDevRaw and DeevoTe. Project isnt done yet. Unreal version: 5.0.3. File size: 3GB.
+Featuring creating/joining session for 4 players with lobby system. Everything is replicated with clean blueprints code and commented. Assets is from Lyra, level design is my own. Code credit goes to GameDevRaw and DeevoTe. Project isnt done yet, uploaded with permission from GameDevRaw. Unreal version: 5.0.3. File size: 3GB.
 
 # Known bugs:
 
