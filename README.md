@@ -7,6 +7,7 @@ Featuring creating/joining session for 4 players with lobby system. Everything i
 
 ###### Character controls enables at client viewport first, if starting in multiplayer session (Click in the main viewport to control the server)
 ###### Placement for rifle and shotgun is kinda janky, when switching weapons
+###### Map preview image wont show for client viewport (No big deal)
 
 
 
