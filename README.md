@@ -3,10 +3,10 @@
 
 Featuring creating/joining session for 4 players with lobby system. Everything is replicated with clean blueprints code and commented. Assets is from Lyra, level design is my own. Code credit goes to GameDevRaw and DeevoTe. Project isnt done yet. Unreal version: 5.0.3. File size: 3GB.
 
-#Known bugs:
+# Known bugs:
 
-#Weapon switching only works for singleplayer at this point
-#Aim animation screws up on client viewport 
+# Controls enables at client viewport, if starting in multiplayer session (Click in the main viewport to control the server)
+
 
 
 ![Capture](https://user-images.githubusercontent.com/2607194/207629008-05a23116-44d4-4c01-8134-d31f20675bd1.JPG)
