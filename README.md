@@ -6,6 +6,7 @@ Featuring creating/joining session for 4 players with lobby system. Everything i
 # Known bugs:
 
 ###### Character controls enables at client viewport first, if starting in multiplayer session (Click in the main viewport to control the server)
+###### Placement for rifle and shotgun is kinda yanky, when switching weapons
 
 
 
