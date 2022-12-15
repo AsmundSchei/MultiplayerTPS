@@ -5,7 +5,7 @@ Featuring creating/joining session for 4 players with lobby system. Everything i
 
 # Known bugs:
 
-# Controls enables at client viewport, if starting in multiplayer session (Click in the main viewport to control the server)
+###### Controls enables at client viewport, if starting in multiplayer session (Click in the main viewport to control the server)
 
 
 
