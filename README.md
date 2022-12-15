@@ -17,6 +17,6 @@ Featuring creating/joining session for 4 players with lobby system. Everything i
 
 ![Capture3](https://user-images.githubusercontent.com/2607194/207461098-28de4cf3-f678-4eec-9201-8d36893f5155.JPG)
 
-![Capture](https://user-images.githubusercontent.com/2607194/207616005-804733c7-938a-4647-a270-5933190f3492.JPG)
+![Capture](https://user-images.githubusercontent.com/2607194/207988380-b934ea07-ab83-450c-986b-6a7d15b16c64.JPG)
 
 ![Capture2](https://user-images.githubusercontent.com/2607194/207616019-433d7d5e-320b-4d55-9ffb-584532db6820.JPG)
