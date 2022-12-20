@@ -10,9 +10,7 @@ Featuring creating/joining session for 4 players with lobby system. Everything i
 ###### Map preview image wont show for client viewport (No big deal)
 
 
-
-
-![Capture](https://user-images.githubusercontent.com/2607194/207629008-05a23116-44d4-4c01-8134-d31f20675bd1.JPG)
+![image](https://user-images.githubusercontent.com/2607194/208744490-04ece661-c300-4d13-9572-55562de8601b.png)
 
 ![Capture2](https://user-images.githubusercontent.com/2607194/207461090-9e434687-51ca-495e-9056-9f31542c0769.JPG)
 
